@@ -31,6 +31,20 @@ body {
     margin-top: 68px;
 }
 
+.org{
+    height: 97.6vh;
+    width: 525,25px;
+    margin: auto;
+    display: block;
+}
+
+.btn-biru{
+    background-color: #22B6FF !important;
+    color: #fff;
+    padding-left: 152px;
+    padding-right: 152px;
+}
+
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
 }
@@ -65,19 +79,4 @@ body {
     .register-form{
         margin-top: 20%;
     }
-}
-
-.org{
-    height: 630px;
-    width: 525,25px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
-.btn-biru{
-    background-color: #22B6FF !important;
-    color: #fff;
-    padding-left: 152px;
-    padding-right: 152px;
 }
