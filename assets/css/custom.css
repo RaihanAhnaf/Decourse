@@ -51,8 +51,8 @@ body {
 }
 
 .lemu{
-    padding-top: 25px !important;
-    padding-bottom: 25px !important;
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
 }
 
 @media screen and (max-height: 450px) {
