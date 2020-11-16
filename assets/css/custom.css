@@ -5,6 +5,15 @@
     margin-top: -8px;
 }
 
+.hero{
+    background-color: #0063A6;
+    border-radius: 0px 0px 0px 50px;
+}
+
+.biru{
+    background-color: #0063A6;
+}
+
 body {
     font-family: "DM Sans", sans-serif;
 }
@@ -37,6 +46,10 @@ body {
     width: 525,25px;
     margin: auto;
     display: block;
+}
+
+.jrk{
+    margin-right: 5px;
 }
 
 .btn-biru{
