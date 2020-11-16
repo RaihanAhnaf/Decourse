@@ -50,6 +50,11 @@ body {
     padding-right: 152px;
 }
 
+.lemu{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
 }
