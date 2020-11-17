@@ -70,8 +70,8 @@ body {
 
 .course{
     background-color:#FF2290;
+    padding-bottom: 30px;
 }
-
 
 .class-crd{
     margin-bottom: 30px;
@@ -79,16 +79,27 @@ body {
     width: 30%;
 }
 
-.about-crd{
+.about{
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+.about .about-info h2{
+    color: #0063A6;
+}
+
+.about .about-info h5{
+    color: #22B6FF;
+}
+
+.about-crd{
     height: 50%;
     width: 30%;
 }
 
 .about-crd img{
     height: auto;
-    width: 150%;
+    width: 300%;
 }
 
 .class-crd img{
