@@ -52,6 +52,23 @@ body {
     margin-right: 5px;
 }
 
+.jdl{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.org-hero{
+    float: left;
+    margin: 10px;
+    width: 50%;
+}
+
+.class-crd{
+    margin-top: 30px;
+    height: 50%;
+    width: 50%;
+}
+
 .btn-biru{
     background-color: #22B6FF !important;
     color: #fff;
