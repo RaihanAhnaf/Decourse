@@ -53,7 +53,6 @@ body {
 }
 
 .jdl{
-    margin-top: 30px;
     text-align: center;
 }
 
@@ -64,15 +63,34 @@ body {
     height: auto;
 }
 
+.category{
+    background-color: #FF2290;
+}
+
+.course{
+    background-color:#FF2290;
+}
+
 .category .container{
-    margin: auto;
+    margin-top: 30px;
 }
 
 .class-crd{
+    margin-bottom: 30px;
+    height: 50%;
+    width: 30%;
+}
+
+.about-crd{
     margin-top: 30px;
     margin-bottom: 30px;
     height: 50%;
     width: 30%;
+}
+
+.about-crd img{
+    height: auto;
+    width: 150%;
 }
 
 .class-crd img{
