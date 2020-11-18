@@ -140,6 +140,20 @@ body {
     padding-bottom: 30px !important;
 }
 
+.journey{
+    margin-top: 30px;
+}
+
+.journey h1{
+    text-align: center;
+}
+
+.journey a{
+    margin-bottom: 30px;
+    position: relative;
+    left: 50%;
+}
+
 .futer{
     padding-top: 30px;
     background-color: #0063A6;
@@ -156,6 +170,10 @@ body {
 
 .futer-icon{
     margin-top: 10px;
+}
+
+.futer-icon img{
+    margin-right: 10px;
 }
 
 @media screen and (max-height: 450px) {
