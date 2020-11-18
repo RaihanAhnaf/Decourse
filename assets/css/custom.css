@@ -152,6 +152,16 @@ body {
     position: relative;
 }
 
+.journey img{
+    width: 80%;
+}
+
+.journey .org4{
+    float: right;
+    width: 70%;
+    height: auto;
+}
+
 .futer{
     padding-top: 30px;
     background-color: #0063A6;
