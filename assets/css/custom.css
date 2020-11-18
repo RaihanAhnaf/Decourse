@@ -48,6 +48,18 @@ body {
     display: block;
 }
 
+.nav-pp img{
+    width: 35px;
+    height: auto;
+    border-radius: 100px;
+    margin-left: 10px;
+}
+
+.course .card-href{
+    text-decoration: none;
+    color: black;
+}
+
 .jrk{
     margin-right: 5px;
 }
