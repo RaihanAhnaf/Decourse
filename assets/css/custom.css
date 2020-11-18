@@ -65,11 +65,11 @@ body {
 }
 
 .category{
-    background-color: #FF2290;
+    background-color:#FAFAFB;
 }
 
 .course{
-    background-color:#FF2290;
+    background-color: #FAFAFB;
     padding-bottom: 30px;
 }
 
@@ -108,6 +108,20 @@ body {
     width: 350%;
 }
 
+.card{
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.card-text{
+    opacity: 60%;
+}
+
+.harga{
+    text-align: right;
+}
+
 .btn-biru{
     background-color: #22B6FF !important;
     color: #fff;
@@ -115,9 +129,33 @@ body {
     padding-bottom: 42px;
 }
 
+.c-btn{
+    margin-bottom: 30px;
+    position: relative;
+    left: 50%;
+}
+
 .lemu{
     padding-top: 30px !important;
     padding-bottom: 30px !important;
+}
+
+.futer{
+    padding-top: 30px;
+    background-color: #0063A6;
+}
+
+.list-unstyled li a{
+    color: #FFF;
+}
+
+.futer-logo{
+    width: 40%;
+    margin-bottom: 15px;
+}
+
+.futer-icon{
+    margin-top: 10px;
 }
 
 @media screen and (max-height: 450px) {
