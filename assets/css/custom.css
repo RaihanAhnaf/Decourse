@@ -91,6 +91,24 @@ body {
     padding-bottom: 30px;
 }
 
+.mentor{
+    background-color: #FAFAFB;
+    padding-bottom: 30px;
+}
+
+.curriculum{
+    padding-bottom: 30px;
+}
+
+.mentor .content{
+    text-align: center;
+    display: block;
+}
+
+.mentor .content h4{
+
+}
+
 .class-crd{
     margin-bottom: 30px;
     height: 50%;
