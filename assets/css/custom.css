@@ -1,6 +1,12 @@
 .join{
     background-color: #22B6FF;
+    color: white;
 }
+.join:hover{
+    background-color: #1b88be;
+    color: white;
+}
+
 .logo{
     margin-top: -8px;
 }
@@ -136,6 +142,13 @@ body {
 
 .btn-biru{
     background-color: #22B6FF !important;
+    color: #fff;
+    padding-top: 18px;
+    padding-bottom: 42px;
+}
+
+.btn-biru:hover{
+    background-color: #1b88be !important;
     color: #fff;
     padding-top: 18px;
     padding-bottom: 42px;
