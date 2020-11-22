@@ -16,6 +16,11 @@
     border-radius: 0px 0px 0px 50px;
 }
 
+.hero-course{
+    background-color: #0063A6;
+    border-radius: 0px 0px 0px 50px;
+}
+
 .biru{
     background-color: #0063A6;
 }
@@ -80,6 +85,16 @@ body {
     margin: 10px;
     width: 70%;
     height: auto;
+}
+
+.org-hero-course{
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+    height: auto;
+    z-index: 99;
 }
 
 .category{
