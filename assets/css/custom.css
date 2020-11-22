@@ -96,6 +96,11 @@ body {
     padding-bottom: 30px;
 }
 
+.mentor-curriculum{
+    background-color: #FAFAFB;
+    padding-bottom: 30px;
+}
+
 .curriculum{
     padding-bottom: 30px;
 }
@@ -105,8 +110,18 @@ body {
     display: block;
 }
 
-.mentor .content h4{
+.mentor-curriculum .curriculum-img{
+    width: 100%;
+    height: auto;
+}
 
+.mentor-curriculum .content{
+    background-color: #FAFAFB;
+    padding-bottom: 30px;
+}
+
+.mentor-curriculum .content img{
+    width: 50%;
 }
 
 .class-crd{
