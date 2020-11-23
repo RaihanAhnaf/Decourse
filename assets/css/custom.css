@@ -120,6 +120,16 @@ body {
     padding-bottom: 30px;
 }
 
+.curriculum .btn{
+    text-align: left;
+    margin-top: 3px;
+    border-radius: 0%;
+}
+
+.curriculum .btn img{
+    margin-right: 5px;
+}
+
 .mentor .content{
     text-align: center;
     display: block;
