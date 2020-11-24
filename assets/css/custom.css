@@ -97,6 +97,15 @@ body {
     z-index: 99;
 }
 
+.hero-course2{
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 80%;
+    height: auto;
+    z-index: 99;
+}
+
 .category{
     background-color:#FAFAFB;
 }
@@ -122,8 +131,22 @@ body {
 
 .curriculum .btn{
     text-align: left;
+}
+
+.curriculum .btn-head{
+    background-color: #E8E8E8;
+    margin-top: 20px;
+    border-radius: 0%;
+}
+
+.curriculum .btn-body{
+    background-color: #F0F0F0;
     margin-top: 3px;
     border-radius: 0%;
+}
+
+.curriculum .enroll{
+    margin-top: 30px;
 }
 
 .curriculum .btn img{
@@ -161,6 +184,10 @@ body {
 }
 
 .about .about-info h2{
+    color: #0063A6;
+}
+
+.about .about-info h4{
     color: #0063A6;
 }
 
